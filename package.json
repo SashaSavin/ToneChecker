@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://SashaSavin.github.io/ToneChecker",
+  "homepage": "http://sashasavin.github.io",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "scripts": {
